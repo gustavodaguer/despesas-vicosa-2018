@@ -3,7 +3,7 @@ import numpy as np
 
 # --- Carregar ---
 df = pd.read_csv(
-    "despesas_vicosa_2018.csv",
+    "csv/despesas_vicosa_2018.csv",
     encoding="latin-1",  
     sep=";",
     decimal=",",
