@@ -1,0 +1,14 @@
+# Dados — baixar direto do TCE-MG
+*.csv
+*.xlsx
+
+# Modelos salvos
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# VS Code
+.vscode/
