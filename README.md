@@ -137,11 +137,7 @@ cd gastos-publicos-vicosa
 pip install -r requirements.txt
 ```
 
-### 3. Baixar os dados
-
-Acesse [dadosabertos.tce.mg.gov.br](https://dadosabertos.tce.mg.gov.br), filtre por **Viçosa** no módulo de **Pagamentos**, selecione o ano de **2018** e salve como `despesas_vicosa.csv` na raiz do projeto.
-
-### 4. Executar na ordem
+### 3. Executar na ordem
 
 ```bash
 python loadNcleanData.py     # 1. limpeza
