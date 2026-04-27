@@ -127,7 +127,7 @@ Relatórios CSV + visualizações
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/gastos-publicos-vicosa.git
+git clone https://github.com/gustavodaguer/despesas-vicosa-2018.git
 cd gastos-publicos-vicosa
 ```
 
