@@ -30,7 +30,7 @@ gastos-publicos-vicosa/
 ├── isolationForest.py     # Detecção de anomalias com IsolationForest
 ├── deepAnomaly.py         # Classificação aprofundada das anomalias
 │
-├── outputs/
+├── csv/
 │   ├── pagamentos_suspeitos_vicosa.csv     # Pagamentos em datas não úteis
 │   ├── anomalias_classificadas_vicosa.csv  # Todas as anomalias
 │   └── suspeitos_reais_vicosa.csv          # Anomalias sem folha de pagamento
